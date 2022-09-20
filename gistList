@@ -1,16 +1,47 @@
 [leaflet-map lat="45.87" lng="3.27" zoom="7" height="500" zoomcontrol min_zoom="6" max_zoom="9" tileurl=https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png subdomains=abc]
+
+https://www.wikidata.org/wiki/Q54561886
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/ae504821ccd22501ca4637d30e687af9/raw/7a1a111ab915473442eed6bfded91db48e77f39e/AUBRAC.geojson color="green" fillColor="yellow" weight=1]Parc Naturel de l'Aubrac[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q3364643
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/79e983b6c80fe0ff57a62d924f2f8af2/raw/78c510f26296679cb9fa2604dfda934803d332e5/PILAT.geojson color="green" fillColor="yellow" weight=1]Parc Naturel du Pilat[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q850607
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/79e983b6c80fe0ff57a62d924f2f8af2/raw/78c510f26296679cb9fa2604dfda934803d332e5/P%25C3%2589RIGORD_LIMOUSIN.geojson color="green" fillColor="yellow" weight=1]Parc Naturel du Périgord-Limousin[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q2138367
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/79e983b6c80fe0ff57a62d924f2f8af2/raw/78c510f26296679cb9fa2604dfda934803d332e5/VOLCANS_AUVERGNE.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Volcans d'Auvergne[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q850607
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/bf4d937aeca77aa6ec1cc2f195038e95/raw/fa1753682f1fc72831b42d11bd18e44d9981ce7f/P%25C3%2589RIGORD_LIMOUSIN.geojson color="green" fillColor="yellow" weight=1]Parc Naturel du Périgord-Limousin[/leaflet-geojson]
+
+#doublon ???
+https://www.wikidata.org/wiki/Q3364643
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/bf4d937aeca77aa6ec1cc2f195038e95/raw/fa1753682f1fc72831b42d11bd18e44d9981ce7f/PILAT.geojson color="green" fillColor="yellow" weight=1]Parc Naturel du Pilat[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q2138345
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/bf4d937aeca77aa6ec1cc2f195038e95/raw/fa1753682f1fc72831b42d11bd18e44d9981ce7f/MORVAN.geojson color="green" fillColor="yellow" weight=1]Parc Naturel du Morvan[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q1421234
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/bf4d937aeca77aa6ec1cc2f195038e95/raw/fa1753682f1fc72831b42d11bd18e44d9981ce7f/MONTS_ARDECHE.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Monts d'Ardèche[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q2138344
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/bf4d937aeca77aa6ec1cc2f195038e95/raw/fa1753682f1fc72831b42d11bd18e44d9981ce7f/MILLEVACHES.geojson color="green" fillColor="yellow" weight=1]Parc Naturel de Millevaches[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q911925
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/bf4d937aeca77aa6ec1cc2f195038e95/raw/fa1753682f1fc72831b42d11bd18e44d9981ce7f/LIVRADOIS-FOREZ.geojson color="green" fillColor="yellow" weight=1]Parc Naturel du Livradois-Forez[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q3364639
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/bf4d937aeca77aa6ec1cc2f195038e95/raw/fa1753682f1fc72831b42d11bd18e44d9981ce7f/HAUT-LANGUEDOC.geojson color="green" fillColor="yellow" weight=1]Parc Naturel du Haut-Languedoc[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q2323358
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/c002859d2cba99fce64376678b95c7a3/raw/d40ffc274432d4e8e231fa490a89b0427d7a95a8/CAUSSES_DU_QUERCY.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Causses du Quercy[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q2685564
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/3e2897524924e1ab53d1ed920359b0a5/raw/e02cde81c312a07e18f420067790d19c8a3efaaa/GRANDS_CAUSSES.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Grands Causses[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q1368807
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/6cfaca5cce8ccc4286dd9354f02a26f3/raw/8cc8fc3dc79fa3f515c7a2480b02a12342a6c22d/CEVENNES.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Cévennes[/leaflet-geojson]
+
+https://www.wikidata.org/wiki/Q190695
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/2ddcf00e6a2b1c683b30f3687598ce33/raw/0f2ac2693e3240ebdc119ea8d5529f08daccc9c7/MASSIF_CENTRAL.geojson color="green" fillColor="brown" weight=1]Parc Naturel des Cévennes[/leaflet-geojson]
