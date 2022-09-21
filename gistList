@@ -41,7 +41,7 @@ https://www.wikidata.org/wiki/Q2685564
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/3e2897524924e1ab53d1ed920359b0a5/raw/e02cde81c312a07e18f420067790d19c8a3efaaa/GRANDS_CAUSSES.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Grands Causses[/leaflet-geojson]
 
 https://www.wikidata.org/wiki/Q1368807
-[leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/6cfaca5cce8ccc4286dd9354f02a26f3/raw/8cc8fc3dc79fa3f515c7a2480b02a12342a6c22d/CEVENNES.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Cévennes[/leaflet-geojson]
+[leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/6cfaca5cce8ccc4286dd9354f02a26f3/raw/e22121754784c50866fac5c8a63f1470054460f6/CEVENNES.geojson color="green" fillColor="yellow" weight=1]Parc Naturel des Cévennes[/leaflet-geojson]
 
 https://www.wikidata.org/wiki/Q190695
 [leaflet-geojson src=https://gist.githubusercontent.com/romain-koenig/2ddcf00e6a2b1c683b30f3687598ce33/raw/0f2ac2693e3240ebdc119ea8d5529f08daccc9c7/MASSIF_CENTRAL.geojson color="green" fillColor="brown" weight=1]Parc Naturel des Cévennes[/leaflet-geojson]
